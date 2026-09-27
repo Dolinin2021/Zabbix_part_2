@@ -7,6 +7,6 @@
 
 
 ## Задание 2
-
 Страница хостов
+
 <img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/ced7d470-5b5f-45b0-996e-b90bee10741c" />
