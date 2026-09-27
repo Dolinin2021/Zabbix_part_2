@@ -13,4 +13,6 @@
 
 
 ## Задание 4
-<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/395d5e6c-bec7-4658-b65d-f80105d1b671" />
+Дашборд, где отображаются графики загрузки CPU и RAM в процентах.
+
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/89cff12b-5d3f-4cb4-86bd-5609311853e3" />
