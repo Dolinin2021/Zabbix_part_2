@@ -6,7 +6,7 @@
 <img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/f965c53a-0495-4760-9e95-9f21006a569e" />
 
 
-## Задание 2
+## Задание 2-3
 Страница хостов
 
 <img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/ced7d470-5b5f-45b0-996e-b90bee10741c" />
